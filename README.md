@@ -54,7 +54,7 @@ Features:
 
 🔗 **Links and Contact**
 
-- Email: mail@fabiankipp.de
+- **Email**: mail[at]fabiankipp[dot]de
 
 📊 **Statistics**
 
