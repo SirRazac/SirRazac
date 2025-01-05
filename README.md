@@ -11,12 +11,12 @@ I am SirRazac, a newcomer to the tech industry and a passionate learner on my jo
 
 🌡️ **Hygrometer and Thermometer System**
 
-Description:  
+**Description**:  
 A comprehensive IoT project that measures humidity and temperature, sending push notifications to mobile devices when thresholds are exceeded.
 
-Tech Stack: Raspberry Pi, Python, Firebase, React, ngrok, React Native.
+**Tech Stack**: Raspberry Pi, Python, Firebase, React, ngrok, React Native.
 
-Features:  
+**Features**:  
 - **Hardware**: Humidity and temperature sensors on the Raspberry Pi.  
 - **Backend**: Python scripts for data collection and communication with Firebase.  
 - **Frontend**:
@@ -39,14 +39,14 @@ A collection of Python scripts that focus on practical tools and utilities. Thes
 **Goal**:  
 The collection is intended to grow with more scripts focused on data structures, algorithms, and other Python programming concepts. As I continue to explore Python, this repository will evolve to include more complex projects, contributing to the deepening of my knowledge.
 
-🌐 **React Frontend Applications**
+## 🌐 **React Frontend Applications**
 
-Description:  
+**Description**:  
 A collection of projects built with React to learn and deepen various frontend concepts. These applications also support the hygrometer project.
 
-Tech Stack: React, Firebase, ngrok.
+**Tech Stack**: React, Firebase, ngrok.
 
-Features:  
+**Features**:  
 - **Weather App**: Dynamic display of weather data.  
 - **QR Code Generator**: Simple creation of QR codes.  
 - **Recipe Generator**: Inspiration for new cooking ideas.  
