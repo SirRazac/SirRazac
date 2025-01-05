@@ -16,7 +16,7 @@ A comprehensive IoT project that measures humidity and temperature, sending push
 
 **Tech Stack**: Raspberry Pi, Python, Firebase, React, ngrok, React Native.
 
-**Features**:  
+**Included Projects**:  
 - **Hardware**: Humidity and temperature sensors on the Raspberry Pi.  
 - **Backend**: Python scripts for data collection and communication with Firebase.  
 - **Frontend**:
@@ -31,7 +31,7 @@ A collection of Python scripts that focus on practical tools and utilities. Thes
 
 **Tech Stack**: Python.
 
-**Features**:  
+**Included Projects**:  
 - **Timers and Time Calculators**: Scripts that measure elapsed time or calculate durations between given time points.
 - **Push Notification Sender**: A script that sends push notifications to a smartphone, offering practical experience with real-time messaging systems.
 - **Basic Python Utilities**: Other small projects that help improve understanding of Python’s basic features and libraries.
@@ -46,7 +46,7 @@ A collection of projects built with React to learn and deepen various frontend c
 
 **Tech Stack**: React, Firebase, ngrok.
 
-**Features**:  
+**Included Projects**:  
 - **Weather App**: Dynamic display of weather data, learning how to integrate APIs and display live data.  
 - **QR Code Generator**: Simple creation of QR codes, a practical tool for learning React's dynamic rendering and input handling.  
 - **Recipe Generator**: Provides inspiration for new cooking ideas, demonstrating form handling and data management in React.  
